@@ -1,1 +1,1 @@
-# TECH-BASE
+TECH-BASEインターン用のコードを表示しています。

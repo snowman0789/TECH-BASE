@@ -1,0 +1,49 @@
+h2 {
+    width: 500px;
+    margin: 0 auto;
+    color: red;
+}
+
+ul li input {
+    width: 300px;
+    border: none;
+    border-bottom: solid 1px lightgray;
+    padding: 10px;
+}
+
+input {
+    width: 300px;
+    border: none;
+    border-bottom: solid 1px lightgray;
+    padding: 10px;
+}
+
+ul li.del_pass {
+    margin-bottom: 10px;
+}
+
+ul li.ed_pass {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 10px;
+    width:100px;
+    float: left;
+}
+
+ul {
+    width: 500px;
+    margin: 0 auto;
+    border-radius:10px;
+}
+
+input[type="submit"] {
+    background-color: red;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    border-radius: 18px;
+    box-shadow: 2px 2px lightgrey;
+    border: none;
+}

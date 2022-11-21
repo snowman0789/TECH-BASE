@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php
     // データベースに接続
-    $dsn = 'mysql:dbname=tb240012db;host=localhost';
-    $user = 'tb-240012';
-    $password = 'PmyrVfXX3R';
+    $dsn = 'データベース名';
+    $user = 'ユーザー名';
+    $password = 'パスワード';
     $pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
     
     // テーブルが無かったら作成
